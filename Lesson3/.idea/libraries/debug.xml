@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AvanceGuiExample/app/build/intermediates/pre-dexed/debug/classes-c4eae033f27cf7fc881355ee9494e61f04fa8222.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AvanceGuiExample/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0daa6319fcffb361baf47ea602d107c1238c859c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AvanceGuiExample/app/build/intermediates/pre-dexed/debug/classes-9d1594b881c635be500cbac16e778e3bf984ff50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AvanceGuiExample/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a2bbd79ed43e6975b0ae5eb670d451a40f456784.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

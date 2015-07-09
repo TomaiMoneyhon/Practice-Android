@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleIntentExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_xml">activity_main</string>
+    <string name="second_xml">2nd!</string>
+    <string name="third_xml">3rd!!</string>
+    <string name="second_label">this is 2nd activity</string>
+    <string name="third_label">this is 3rd activity!</string>
+</resources>

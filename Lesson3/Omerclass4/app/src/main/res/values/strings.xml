@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Omerclass4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="second_activity_label">Second activity</string>
+    <string name="third_activity_label">Third activity</string>
+    <string name="Main_activity_label">Main activity</string>
+    <string name="button_main">button main !</string>
+</resources>

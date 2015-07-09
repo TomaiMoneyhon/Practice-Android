@@ -1,0 +1,7 @@
+<resources>
+    <color name="Yellow"> #F2F202 </color>
+    <color name="Green"> #1FF235 </color>
+    <color name="Blue"> #2d0ff2</color>
+    <color name="Red"> #f22707</color>
+    <color name="Violet"> #f252dd</color>
+</resources>

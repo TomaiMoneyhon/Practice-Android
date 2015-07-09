@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImplicitIntentExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spanish_dictionar_label"> Spanish Dictionary </string>
+    <string name="hebrew_dictionary_label"> Hebrew Dictionary </string>
+</resources>
