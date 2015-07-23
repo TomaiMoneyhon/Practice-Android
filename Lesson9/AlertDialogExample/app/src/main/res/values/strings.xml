@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AlertDialogExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="colors">
+        <item>yellow</item>
+        <item>black</item>
+        <item>green</item>
+        <item>magenta</item>
+        <item>violet</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>sunday</item>
+        <item>monday</item>
+        <item>tuesday</item>
+        <item>wednesday</item>
+        <item>thursday</item>
+        <item>friday</item>
+    </string-array>
+
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+</resources>
