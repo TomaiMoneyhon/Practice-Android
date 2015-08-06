@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactManageApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednsday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Satarday</item>
+    </string-array>
+</resources>
