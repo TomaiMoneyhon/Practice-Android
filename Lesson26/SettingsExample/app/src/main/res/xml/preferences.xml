@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Category A">
+
+        <CheckBoxPreference
+            android:key="checkbox_prefs"
+            android:title="checkbox title"
+            android:summary="extra information about checkbox"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Category B">
+
+        <EditTextPreference
+            android:key="edittext_prefs"
+            android:title="edit text title"
+            android:summary="edot text extra information"
+            android:dialogTitle="please enter text"/>
+
+        <ListPreference
+            android:key="list_prefs"
+            android:title="Please choose on of the following"
+            android:icon="@mipmap/ic_launcher"
+            android:entries="@array/list_labels"
+            android:entryValues="@array/list_values"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Category C">
+
+        <PreferenceScreen
+            android:title="Sub settings menu">
+
+            <SwitchPreference
+                android:key="switch_prefs"
+                android:title="choose yes or no"/>
+
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

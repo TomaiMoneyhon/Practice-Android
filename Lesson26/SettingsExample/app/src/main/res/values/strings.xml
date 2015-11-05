@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SettingsExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list_labels">
+        <item> Hello how are you </item>
+        <item> Goodbye and don\'t come back</item>
+        <item> I don\'t know who you are</item>
+    </string-array>
+
+    <string-array name="list_values">
+        <item>hello</item>
+        <item>goodbye</item>
+        <item>maybe</item>
+    </string-array>
+</resources>
